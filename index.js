@@ -28,7 +28,4 @@ class President {
 }
 
 
-var GeorgeWashington = new President("George Washington", "Democrat", "5", "Virginia");
-var GeorgeWashington = new President("George Washington", "Democrat", "5", "Virginia");
-var GeorgeWashington = new President("George Washington", "Democrat", "5", "Virginia");
-var GeorgeWashington = new President("George Washington", "Democrat", "5", "Virginia");
+var GeorgeWashington = new President("George Washington", "Independent", "8", "Virginia");
